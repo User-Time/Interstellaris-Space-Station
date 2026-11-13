@@ -1,0 +1,8 @@
+{
+  "block.potg_station_habitat.station_core": "空间站核心",
+  "itemGroup.potg_station_habitat": "Interstellaris：空间站",
+  "tooltip.potg_station_habitat.core": "右键设置空气、温度、重力与地图可见性",
+  "tooltip.potg_station_habitat.fixed": "用于太空中的固定空间站，不随飞船组装移动",
+  "message.interstellaris.sic.issue.station_locked": "尚未到访此空间站，请先进入其范围并停留约2秒",
+  "message.interstellaris.sic.issue.station_unavailable": "空间站不存在、已停用或不可访问"
+}

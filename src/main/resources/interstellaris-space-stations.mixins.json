@@ -1,0 +1,27 @@
+{
+  "required": true,
+  "package": "net.time_cloud.mixin",
+  "compatibilityLevel": "JAVA_21",
+  "mixins": [
+    "EnvironmentAccess",
+    "EntityGravityMixin",
+    "PlayerEnvironmentMixin",
+    "CombustionMixin",
+    "WaterPhaseMixin",
+    "MobEnvironmentMixin",
+    "AirSeparationMixin",
+    "ShipGravityAccess",
+    "ShipGravityMixin",
+    "CelestialBodyMixin",
+    "StationNavigatorMixin",
+    "StationSicPacketMixin"
+  ],
+  "client": [
+    "ClientEnvironmentMixin",
+    "SystemMapAccess",
+    "StationSicScreenMixin"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

@@ -1,0 +1,10 @@
+{
+  "name": "Interstellaris: Space Stations",
+  "version": "2.1.1",
+  "java_package": "net.time_cloud",
+  "mod_id": "potg_station_habitat",
+  "network_protocol": "4",
+  "status": "preview; client acceptance pending",
+  "jar": "interstellaris-space-stations-2.1.1.jar",
+  "sha256": "82be53c88b07fa0db1e515f0d55930b56e1a17391125ad5d8f3fa181e2f40d35"
+}

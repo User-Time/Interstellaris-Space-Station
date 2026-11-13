@@ -1,0 +1,8 @@
+{
+  "block.potg_station_habitat.station_core": "Space Station Core",
+  "itemGroup.potg_station_habitat": "Interstellaris: Space Stations",
+  "tooltip.potg_station_habitat.core": "Right-click to configure atmosphere, temperature, gravity and map visibility",
+  "tooltip.potg_station_habitat.fixed": "For fixed space stations; excluded from ship assembly",
+  "message.interstellaris.sic.issue.station_locked": "Visit this station for two seconds to unlock navigation",
+  "message.interstellaris.sic.issue.station_unavailable": "Station unavailable, disabled or private"
+}

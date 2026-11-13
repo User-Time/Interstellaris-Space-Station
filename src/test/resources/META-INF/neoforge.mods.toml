@@ -1,0 +1,22 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="All Rights Reserved"
+[[mods]]
+modId="potg_habitat_probe"
+version="1.0.0"
+displayName="Isolated Station Habitat Probe - Never Install in Production"
+
+[[mods]]
+modId="potg_floor_probe"
+version="1.0.0"
+displayName="Isolated Floor Support Probe - Never Install in Production"
+
+[[mods]]
+modId="potg_station_probe"
+version="2.0.0"
+displayName="Isolated Station Core Probe - Never Install in Production"
+
+[[mods]]
+modId="potg_navigation_probe"
+version="2.1.0"
+displayName="Isolated Native Navigation Probe - Never Install in Production"

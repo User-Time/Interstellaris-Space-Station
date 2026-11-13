@@ -1,0 +1,34 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="MIT"
+
+[[mods]]
+modId="potg_station_habitat"
+version="2.1.1"
+displayName="Interstellaris: Space Stations"
+authors="User-Time"
+description='''Unofficial Interstellaris add-on: station cores, local atmosphere, temperature, gravity, map markers and native ship navigation. Install the same version on both client and server.'''
+
+[[mixins]]
+config="interstellaris-space-stations.mixins.json"
+
+[[dependencies.potg_station_habitat]]
+modId="neoforge"
+type="required"
+versionRange="[21.1.264,21.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.potg_station_habitat]]
+modId="minecraft"
+type="required"
+versionRange="[1.21.1,1.21.2)"
+ordering="NONE"
+side="BOTH"
+
+[[dependencies.potg_station_habitat]]
+modId="interstellaris"
+type="required"
+versionRange="[0.6.3a]"
+ordering="AFTER"
+side="BOTH"
